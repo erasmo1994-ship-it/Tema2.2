@@ -5,7 +5,7 @@ public class Ejercicio18dowhile {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
 		int opcion, num1 = 0, num2 = 0, total;
- //este es un mensaje de prueba para git
+ //este es un mensaje de prueba para git......124
 		do {
 			System.out.println("1 SUMA");
 			System.out.println("2 RESTA");
